@@ -30,8 +30,10 @@ public class UniqueNumbers {
               break;
             }
             }
-            
+
         String uniqueNumbersAsString = Arrays.toString(uniqueNumbers);
         System.out.println("Unique numbers: " + uniqueNumbersAsString);
     }
+}
+
 }
